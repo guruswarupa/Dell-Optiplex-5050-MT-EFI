@@ -5,7 +5,7 @@
 ## Hardware Specifications
 
 **System:** Dell Optiplex 5050 MT (Mini Tower)
-**CPU:** Intel Core i5-7500T (4th Generation Kaby Lake)
+**CPU:** Intel Core i5-7500T (7th Generation Kaby Lake)
 **GPU:** Intel HD Graphics 630 (Integrated)
 **Ethernet:** Intel I210 Ethernet
 **Audio:** Realtek Audio (Working)
