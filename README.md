@@ -1,5 +1,7 @@
 # Dell Optiplex 5050 MT Hackintosh EFI
 
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/4f52a010-7c7b-498b-a005-d7806dae4db7" />
+
 ## Hardware Specifications
 
 **System:** Dell Optiplex 5050 MT (Mini Tower)
