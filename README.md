@@ -135,7 +135,7 @@
 
 5. **Sleep/Wake:** Sleep and wake functionality is implemented through SSDT-GPRW and proper power management configuration.
 
-6. **Updates:** When updating macOS, ensure your kexts are compatible with the new version. The current configuration supports up to macOS Sonoma.
+6. **Updates:** When updating macOS, ensure your kexts are compatible with the new version. The current configuration supports macOS Ventura, Sonoma, and Sequoia.
 
 ## Installation Instructions
 
@@ -195,7 +195,7 @@ This EFI configuration is provided as-is for educational purposes. Hackintoshing
 
 ## Compatibility
 
-- **macOS Versions:** Sierra (10.12) through Sonoma (14.x)
+- **macOS Versions:** Ventura (13.x), Sonoma (14.x), and Sequoia (15.x)
 - **OpenCore:** 0.9.7+
 - **Hardware:** Dell Optiplex 5050 MT with i5-7500T specifically
 
@@ -210,5 +210,5 @@ For issues and questions:
 ---
 
 **Last Updated:** July 2025
-**Tested Configuration:** macOS Sonoma 14.x
+**Tested Configuration:** macOS Ventura (13.x), Sonoma (14.x), and Sequoia (15.x)
 **Status:** Stable - All major features working
